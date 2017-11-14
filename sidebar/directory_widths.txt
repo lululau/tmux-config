@@ -1,0 +1,4 @@
+/Users/liuxiang	40
+/Users/liuxiang/tmp	40
+/Users/liuxiang/tmp/dbdump	40
+/Users/liuxiang/kt/faith	40
