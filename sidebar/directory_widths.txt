@@ -3,3 +3,4 @@
 /Users/liuxiang/tmp/dbdump	40
 /Users/liuxiang/kt/faith	40
 /Users/liuxiang/cascode/elixir/example	40
+/Users/liuxiang/kt/dev-docs	40
